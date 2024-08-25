@@ -1,5 +1,11 @@
 <h1 align="center">Hola 👋, Soy Brayan Velasco de la Ossa</h1>
 <h3 align="center">Estudiante del politecnico PIO🎓.</h3>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
 <br>
 
@@ -20,7 +26,7 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Estadisticas:-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=brayan-V&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="brayan-V" 
